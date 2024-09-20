@@ -4,15 +4,15 @@
 
 
 Good evening, here I am showing how to do a simple 'Hello world' program.'
-The main purpose of writting this program was to practise making a new project, and confirming that my github was connecting correctly to visual studio code.
+The main purpose of writing this program was to practice making a new project, and confirming that my GitHub was connecting correctly to visual studio code.
 
 [Software Demo Video] (https://youtu.be/I6Yok7gunmA)
 
 # Development Environment
 
-The coding enviroment I used is Visual Studio Code.
+The coding environment I used is Visual Studio Code.
 
-The language I chose for this was c#. It is an object oriented language, and the language I have the most practise writting in.
+The language I chose for this was c#. It is an object oriented language, and the language I have the most practice writing in.
 
 # Useful Websites
 
