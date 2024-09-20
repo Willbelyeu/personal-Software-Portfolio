@@ -1,0 +1,14 @@
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/bin/Debug/net8.0/MyFirstApp
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/bin/Debug/net8.0/MyFirstApp.deps.json
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/bin/Debug/net8.0/MyFirstApp.runtimeconfig.json
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/bin/Debug/net8.0/MyFirstApp.dll
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/bin/Debug/net8.0/MyFirstApp.pdb
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/MyFirstApp.AssemblyInfo.cs
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/MyFirstApp.dll
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/refint/MyFirstApp.dll
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/MyFirstApp.pdb
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/MyFirstApp.genruntimeconfig.cache
+/Users/williambelyeu/Desktop/personal Software Portfolio/MyFirstApp/obj/Debug/net8.0/ref/MyFirstApp.dll
